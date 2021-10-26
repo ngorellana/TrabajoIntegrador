@@ -1,2 +1,2 @@
-# TrabajoIntegrador
+# ActividadJs
 CursoBa_Bootstrap
