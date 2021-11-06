@@ -33,3 +33,12 @@ textCarousel{
     color: honeydew;
     position: absolute;
 }
+.footer {
+    background-image: linear-gradient(to right, #1c3643, #1e5372);
+    height: 80px;
+    text-align: center;
+    align-items: center !important;
+    vertical-align: middle !important;
+    font-size: small;
+    color: whitesmoke;
+  }
